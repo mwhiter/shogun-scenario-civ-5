@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/19/2018 6:18:29 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SHIMAZU_FIRSTGREETING_1">
+			<Text>You stand before Shimazu Takahisa, warlord of Satsuma. Our swords cut through our foes with grace and precision. For your sake, pray to the heavens you do not find yourself on the wrong end of our blades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIMAZU_FIRSTGREETING_2">
+			<Text>Loyalty and honor of one's commanders are the only path to victory. You will find the honor of the Shimazu clan to be unmatched by the other warlords of Japan. Betray us, and you will meet a swift end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIMAZU_DEFEATED_1">
+			<Text>This is impossible! We were destined to conquer Kyushu! You have defeated my samurai and captured the great lands of the Shimazu. For this dishonor, I must end my life. Good luck in your conquests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIMAZU_DEFEATED_2">
+			<Text>Red as autumn leaves, I go to my ancestors. Will they welcome me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOJO_FIRSTGREETING_1">
+			<Text>I am Hojo Ujiyasu, ruler of the famous and mighty Hojo clan. Stand in awe before our castles. Should our paths cross on the battlefield, I challenge you to besiege them. You will find yourself quite disappointed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOJO_FIRSTGREETING_2">
+			<Text>We are the Hojo, builders of the finest castles Japan has even seen. I caution against threatening our clan. You would hate to try to take them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOJO_DEFEATED_1">
+			<Text>Our campaign comes to an end today. You have achieved what I previously thought impossible. The glorious castles of the Hojo were no match for your armies. You will make a fine Shogun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOJO_DEFEATED_\2">
+			<Text>Please end this dishonor to my family... to my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_LEADER_ODA_NOBUNAGA_FIRSTGREETING_1">
+			<Text>We are most pleased and honored to meet the great leader and warlord.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_LEADER_ODA_NOBUNAGA_FIRSTGREETING_2">
+			<Text>I am Oda Nobunaga, ruler of the Oda clan. The grace of Buddha has blessed this meeting today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_LEADER_ODA_NOBUNAGA_FIRSTGREETING_3">
+			<Text>In truth, the heavens have smiled upon us for leading us into your august presence. How may we serve you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_LEADER_ODA_NOBUNAGA_DEFEATED_1">
+			<Text>You are far cleverer than I gave you credit for. I congratulate you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_LEADER_ODA_NOBUNAGA_DEFEATED_2">
+			<Text>You have shown remarkable skill and audacity. You would have made a fine lieutenant in my army.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_LEADER_ODA_NOBUNAGA_DEFEATED_3">
+			<Text>I resign my campaign in honor. Good luck on your path to the Shogunate. You have earned it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_LEADER_ODA_NOBUNAGA_DEFEATED_4">
+			<Text>I am defeated. You are to be congratulated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TAKEDA_FIRSTGREETING_1">
+			<Text>The horseman of Takeda are the envy of Japan. Do not cross us, or you will make a great vassal of the Takeda.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TAKEDA_FIRSTGREETING_2">
+			<Text>I always enjoy meeting the leader of another clan. Will you ride with or against the mighty Takeda?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TAKEDA_FIRSTGREETING_3">
+			<Text>I am Takeda Shingen, ruler of Kai. I can guard your flanks, or overrun them. I hope you make the correct choice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TAKEDA_DEFEATED_1">
+			<Text>My horse rides for its final day today. I must congratulate you on defeating me. And now, I will die with honor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TAKEDA_DEFEATED_2">
+			<Text>I never thought it possible to see another clan's banners in Kai. Well done, adversary. You've earned this victory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHOSOKABE_FIRSTGREETING_1">
+			<Text>Greetings, great warlord! Should you dishonor the Chosokabe, our arrows will blot out the sun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHOSOKABE_FIRSTGREETING_2">
+			<Text>Welcome to lands of the Chosokabe. We are most pleased to meet another great warlord of Japan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHOSOKABE_DEFEATED_1">
+			<Text>The island of Shikoku is yours, then. With honor, I relinquish my claim to the Shogunate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHOSOKABE_DEFEATED_2">
+			<Text>The time has come for me to die. Congratulations, foe. You have beaten me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHOSOKABE_DEFEATED_3">
+			<Text>Like the blossom on the breeze, will the wind carry my name? Who will remember?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MORI_FIRSTGREETING_1">
+			<Text>It is with great pleasure to meet you, great warlord. I am Mori Motonari, head of the seafaring Mori! If you attempt to assault our shores you will find your fleet at the bottom of the Kanmon Straits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MORI_FIRSTGREETING_2">
+			<Text>The seas have parted ways to allow us to meet. I hope we can make a powerful alliance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MORI_DEFEATED_1">
+			<Text>A tsunami has swept over our lands are destroyed my provinces. You have defeated me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MORI_DEFEATED_2">
+			<Text>Today, the Mori clan has been destroyed. Best of luck in your claim to Kyoto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MORI_DEFEATED_3">
+			<Text>I was restless water. But I shall flow and thrash no more. Now, I shall be still.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OTOMO_FIRSTGREETING_1">
+			<Text>The mercy of God has led us to the beautiful meeting of our clans. May you be blessed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OTOMO_FIRSTGREETING_2">
+			<Text>May God bless you on this day, great leader. If you accept the grace of God, maybe he will bless you with powerful guns as he did for us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OTOMO_DEFEATED_1">
+			<Text>You must the devil himself. I may be defeated today, but my God will never abandon me. We will return, bigger, stronger and more blessed than before!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OTOMO_DEFEATED_2">
+			<Text>You have defeated me! But how? Consider yourself warned - the wrath of God will strike you down.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UESUGI_FIRSTGREETING_1">
+			<Text>May the grace of Buddha be with you, warlord. I am Uesugi Kenshin. You will find peace and tranquility in our lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UESUGI_FIRSTGREETING_2">
+			<Text>Well met, great leader! Will you join my monks in prayer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UESUGI_DEFEATED_1">
+			<Text>My warrior monks were not strong enough to defeat your armies. Very well. Will you allow me one last meditation?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UESUGI_DEFEATED_2">
+			<Text>I do not fear death. Like the beautiful cherry tree, life shall bloom again.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

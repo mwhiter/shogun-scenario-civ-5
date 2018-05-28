@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_SWORD_SHORT">
+			<Text>Masters of the Sword</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_SWORD">
+			<Text>The Shimazu can receives a bonus toward sword units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_SIEGE_SHORT">
+			<Text>Masters of Siege</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_SIEGE">
+			<Text>The Hojo receive a bonus toward siege units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_ASHIGARU_SHORT">
+			<Text>Master of Ashigaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_ASHIGARU">
+			<Text>The Oda receive a bonus toward their Ashigaru units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_HORSES_SHORT">
+			<Text>Master of Horses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_HORSES">
+			<Text>The Takeda receive a bonus to all of their cavalry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_ARCHER_SHORT">
+			<Text>Master of Archery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_ARCHER">
+			<Text>The Chosokabe receive a bonus to their archery units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_SEA_SHORT">
+			<Text>Master of Waves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_SEA">
+			<Text>The Mori receive a bonus to naval units and naval movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_GUNPOWDER_SHORT">
+			<Text>Master Gunners</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_GUNPOWDER">
+			<Text>The Otomo receive a bonus to gunpowder units and Christianity spread.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_BUDDHISM_SHORT">
+			<Text>Master of Buddhism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_BUDDHISM">
+			<Text>The Uesugi receive a bonus to Warrior Monks and Buddhism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_REBELLION_SHORT">
+			<Text>Master of Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TRAIT_MASTER_REBELLION">
+			<Text>The Ikko Ikki receive a bonus to recruiting large amounts of weak peasants to fight, and receives a bonus to fighting with their religion.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/23/2018 10:35:05 AM -->
+<GameData>
+	<!-- Now that we have added back in the Civs, Traits, and Leaders we need, clean the database of references to ones we aren't using -->
+	<DeleteMissingReferences table="Civilizations" column="Type"/>
+	<DeleteMissingReferences table="Traits" column="Type"/>
+	<DeleteMissingReferences table="Leaders" column="Type"/>
+</GameData>

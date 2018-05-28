@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/15/2018 8:45:44 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_SPEARMAN">
+			<Text>Yari Ashigaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_SPEARMAN_STRATEGY">
+			<Text>Yari Ashigaru are the mainstay of Japanese armies and can be levied at low cost. They are effective against mounted units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_HELP_SPEARMAN">
+			<Text>A cheap Unit which specializes in defeating Mounted Units. Has low morale and is generally ineffective at fighting other infantry units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YARI_SAMURAI">
+			<Text>Yari Samurai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YARI_SAMURAI_STRATEGY">
+			<Text>Yari Samurai are powerful units that specialize in defeating Mounted Units. Unlike Ashigaru, they have high morale and can have a better chance at defeating other samurai units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_YARI_SAMURAI">
+			<Text>Specialized in defeating Mounted Units. Requires a Yari Drill Yard in the city to build.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_ARCHER">
+			<Text>Bow Ashigaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_ARCHER_STRATEGY">
+			<Text>Cheap and effective, Bow Ashigaru form the majority of early Japanese armies. They can be recruited at low cost and can deal decent damage to low armored units from afar. However, they are fairly weak when attacked by other units. Ideal for defending cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_HELP_ARCHER">
+			<Text>Ranged Unit that can strike foes from afar. Can be created at low cost. Vulnerable if attacked in melee.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOW_SAMURAI">
+			<Text>Bow Samurai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOW_SAMURAI_STRATEGY">
+			<Text>In contrast to Bow Ashigaru, Bow Samurai are formidable in melee and can defend themselves quite well. In addition, they possess a deadlier ranged attack than their Ashigaru counterparts. Place your Bow Samurai in cities or protected behind melee units and watch them rain fire upon your foes!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BOW_SAMURAI">
+			<Text>Powerful ranged Unit, providing higher Melee defense than their Ashigaru counterparts. Ideal for dealing damage to melee units from afar. Requires an Archery Dojo in the city to build.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WARRIOR_MONK">
+			<Text>Warrior Monk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WARRIOR_MONK_STRATEGY">
+			<Text>The Warrior Monk is a powerful melee Unit that strikes fear into the hearts of nearby enemy Units, reducing their combat strength. In large numbers, Warrior Monks can crush other units in Melee combat. Warrior Monks receive a penalty when defending against ranged attacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WARRIOR_MONK">
+			<Text>Strong melee Unit that instills fear into their opponents. Weak to archers. Requires a Buddhist Temple in the City to build.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NO_DACHI">
+			<Text>No Dachi Samurai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NO_DACHI_STRATEGY">
+			<Text>The No Dachi Samurai is a very powerful offensive melee unit that receives a bonus when attacking. They have a weak base Combat Strength so they are vulnerable to arrow fire and melee attacks, but they can crush enemy units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NO_DACHI">
+			<Text>A strong melee Unit that receives a bonus when attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LIGHT_CAVALRY">
+			<Text>Light Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LIGHT_CAVALRY_STRATEGY">
+			<Text>The Light Cavalry is a powerful cavalry unit, combining speed with a powerful melee attack. The Light Cavalry can move after attacking. As a mounted unit, the Horseman remains vulnerable to attacks to Yari units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LIGHT_CAVALRY">
+			<Text>Fast and powerful Mounted Unit. Weak to Yari units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YARI_CAVALRY">
+			<Text>Yari Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YARI_CAVALRY_STRATEGY">
+			<Text>The Yari Cavalry is a powerful horse unit. It's slower than Light Cavalry but has a bonus when fighting other cavalry units. Ideal for protecting your flanks and wiping enemy cavalry units off the map. Beware of Yari infantry; the Yari Cavalry does not have a bonus against them but they have a bonus against the Yari Cavalry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_YARI_CAVALRY">
+			<Text>Mounted Unit specialized in defeating enemy Mounted Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KATANA_SAMURAI">
+			<Text>Katana Samurai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KATANA_SAMURAI_STRATEGY">
+			<Text>Katana samurai are generic melee units with a strong melee attack. Use them to quickly cut down ranks of Yari units. In melee combat initiated by the Katana Samurai, they are stronger than No Dachi samurai, but when defending they are beaten by them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_KATANA_SAMURAI">
+			<Text>Powerful melee infantry unit. This Unit is powerful melee unit that can destroy Yari units with ease.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_MUSKETMAN">
+			<Text>Matchlock Ashigaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_MUSKETMAN_STRATEGY">
+			<Text>Placeholder, because unsure of the role muskets will play in this scenario.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_MUSKETMAN_HELP">
+			<Text>The first gunpowder unit in the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOW_CAVALRY">
+			<Text>Bow Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOW_CAVALRY_STRATEGY">
+			<Text>Bow Cavalry are fast ranged units, deadly on open terrain. As a mounted unit, the Bow Cavalry are vulnerable to Yari units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOW_CAVALRY_HELP">
+			<Text>The Bow Cavalry is a fast Ranged Unit used for hit-and-run attacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOW_KOBAYA">
+			<Text>Bow Kobaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOW_KOBAYA_STRATEGY">
+			<Text>The Bow Kobaya is the first naval unit available to all clans. It is a melee attack unit, engaging units at sea or cities (but it has no ranged attack). The Bow Kobaya is very manueverable and can sail much longer distances than other ships, making it effective for chasing down fleeing ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOW_KOBAYA_HELP">
+			<Text>The first Naval Unit used to wrest control of the seas through melee attacks on naval units and cities. Possesses greater movement range than other ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIRE_BOMB_KOBAYA">
+			<Text>Fire Bomb Kobaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIRE_BOMB_KOBAYA_STRATEGY">
+			<Text>The Fire Bomb Kobaya excels at naval combat, with a large bonus when attacking naval ships. However, they are much weaker than Bow Kobaya when defending which makes them vulnerable if caught. They are weak to Bow Kobaya, who possess the necessary speed to catch up to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIRE_BOMB_KOBAYA_HELP">
+			<Text>Fast naval Melee Unit that does massive damage when attacking ships, but is extremely vulnerable to attacks by other ships. Can move after attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEDIUM_BUNE">
+			<Text>Medium Bune</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEDIUM_BUNE_STRATEGY">
+			<Text>Naval Unit that attacks as a melee unit. They are weak to Fire Bomb Kobaya but strong against Bow Kobaya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEDIUM_BUNE_HELP">
+			<Text>Naval Unit that is much stronger, but slower, than Bow Kobaya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HEAVY_BUNE">
+			<Text>Heavy Bune</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HEAVY_BUNE_STRATEGY">
+			<Text>Naval Unit that attacks as a melee unit. They are weak to Fire Bomb Kobaya but strong against all other warships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HEAVY_BUNE_HELP">
+			<Text>Naval Unit that is much stronger, but slower than other ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BUDDHIST_MONK">
+			<Text>Buddhist Monk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BUDDHIST_MONK_STRATEGY">
+			<Text>Can be purchased with [ICON_PEACE] Faith in any city with a Buddhist Temple and majority Religion of [ICON_RELIGION_SHINTO] Shinto Buddhism. Once adjacent to a city they can spread their religion to it (expending the Buddhist Monk after the second use).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BUDDHIST_MONK">
+			<Text>Used to spread a religion to cities. May only be obtained by purchasing with [ICON_PEACE] Faith. Unlike the Christian Missionary, they do not suffer Religious Strength attrition when ending turn in another clan's territory (at the cost of Religious Strength).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_MISSIONARY">
+			<Text>Missionary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_MISSIONARY_STRATEGY">
+			<Text>Can be purchased with [ICON_PEACE] Faith in any city with a Chapel and majority Religion of [ICON_RELIGION_CHRISTIANITY] Christianity. Once adjacent to a city they can spread their religion to it (expending the Missionary after the second use). If a Missionary enters another clan's territory without Open Borders, their Religious Strength is reduced each turn. Once their Religious Strength reaches zero, they are destroyed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_HELP_MISSIONARY">
+			<Text>Used to spread [ICON_RELIGION_CHRISTIANITY] Christianity to cities. May only be obtained by purchasing with [ICON_PEACE] Faith. They have more Religious Strength than their Buddhist counterparts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_NINJA">
+			<Text>Ninja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_NINJA_STRATEGY">
+			<Text>The Ninja are scouts and assassins. It is invisible to most units - except for Metsuke and other Ninja - until it attacks, or is adjacent to another unit. The Ninja can swiftly move across the battlefield, with fast range, no terrain penalty, and increase sight, making them extremely mobile. Use Ninja to scout out enemy movements, and attack when your opponent is unaware. Be careful, however - the Ninja is easily defeated in combat and has a low Ranged attack - use them to assassinate a particularly strong enemy Unit - not for fighting on the front lines!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_HELP_NINJA">
+			<Text>Invisible to all Units except for Metsuke and other Ninja, or until it attacks or is adjacent to another unit. Can cause major damage to land units if they get into range without being seen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_FIRE_PROJECTING_MANGONELS">
+			<Text>Fire Projecting Mangonels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_FIRE_PROJECTING_MANGONELS_STRATEGY">
+			<Text>The Fire Projecting Mangonel is a siege weapon, extremely useful when assaulting early enemy cities. It is slow and extremely vulnerable to enemy melee attack; it always should be supported by other units when it's in the field. The Fire Projecting Mangonel must "set up" (1 Movement Point) before attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_UNIT_HELP_FIRE_PROJECTING_MANGONELS">
+			<Text>Does major damage to Units and Cities from a distance, but must set up prior to firing.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

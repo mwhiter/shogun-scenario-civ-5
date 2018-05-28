@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/25/2018 10:16:58 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Religions -->
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_RELIGION_BUDDHISM">
+			<Text>Jodo Shinshu Buddhism</Text>
+		</Row>
+		<!-- Beliefs -->
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BELIEF_PAGODAS">
+			<Text>Unlocks construction of Buddhist Temples (+3 [ICON_FAITH], +3 [ICON_HAPPINESS]).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BELIEF_PAGODAS_SHORT">
+			<Text>Buddhist Temples</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BELIEF_CATHEDRALS">
+			<Text>Unlocks construction of Chapels (+3 [ICON_FAITH], +3 [ICON_HAPPINESS]).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BELIEF_CATHEDRALS_SHORT">
+			<Text>Chapels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BELIEF_HOLY_WARRIORS">
+			<Text>Use [ICON_PEACE] Faith to purchase land units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHRISTIAN_WARRIORS">
+			<Text>Use [ICON_PEACE] Faith to purchase land units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHRISTIAN_WARRIORS_SHORT">
+			<Text>Christian Warriors</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

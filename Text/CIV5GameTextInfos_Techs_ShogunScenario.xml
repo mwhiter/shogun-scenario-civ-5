@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/16/2018 5:15:33 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TECH_TECH_PRE_WAR_KNOWLEDGE_TITLE">
+			<Text>Pre War Knowledge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TECH_PRE_WAR_KNOWLEDGE_HELP">
+			<Text>Allows trading of Open Borders and building bridges over rivers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PRE_WAR_KNOWLEDGE_QUOTE">
+			<Text>[NEWLINE]"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win"[NEWLINE]- Sun Tzu, The Art of War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WAY_OF_CHI_TITLE">
+			<Text>Way of Chi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WAY_OF_CHI_HELP">
+			<Text>Allows you to build the Market, a economic building.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WAY_OF_CHI_QUOTE">
+			<Text>"To all things there is an energy, awaiting release."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BUSHIDO_TITLE">
+			<Text>Bushido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BUSHIDO_HELP">
+			<Text>Allows you to build the Sword School, enabling you to recruit katana samurai.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BUSHIDO_QUOTE">
+			<Text>"The way of the warrior is the resolute acceptance of death."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TODOFUKEN_TITLE">
+			<Text>Todofuken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TODOFUKEN_HELP">
+			<Text>Enables the construction of a [COLOR_POSITIVE_TEXT]Rice Exchange[ENDCOLOR], increasing the [ICON_GOLD] Gold output of your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TODOFUKEN_QUOTE">
+			<Text>"When people are ruled wisely they seldom realise it, or are grateful, until wisdom is gone."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ZEN_TITLE">
+			<Text>Zen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ZEN_HELP">
+			<Text>Not yet implemented.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ZEN_QUOTE">
+			<Text>"The gardener is but a dream of the garden."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STRATEGY_ATTACK_TITLE">
+			<Text>Strategy of Attack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STRATEGY_ATTACK_HELP">
+			<Text>Build siege units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STRATEGY_ATTACK_QUOTE">
+			<Text>"Without decisive attack, defence alone will not bring victory."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STRATEGY_DEFENSE_TITLE">
+			<Text>Strategy of Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STRATEGY_DEFENSE_HELP">
+			<Text>Better fortifications.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STRATEGY_DEFENSE_QUOTE">
+			<Text>"Without resolute defence, attack alone will never achieve victory."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SOJUTSU_TITLE">
+			<Text>Sojutsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SOJUTSU_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Yari Samurai[ENDCOLOR], a powerful anti-Mounted Melee unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SOJUTSU_QUOTE">
+			<Text>"The pointy end! Use the POINTY end!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WAY_OF_SEA_TITLE">
+			<Text>Way of the Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WAY_OF_SEA_HELP">
+			<Text>Allows you to build better warships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WAY_OF_SEA_QUOTE">
+			<Text>"Wisdom lies in keeping the water on the outside."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NAVAL_EXPERTISE_TITLE">
+			<Text>Naval Expertise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NAVAL_EXPERTISE_HELP">
+			<Text>Allows you to build better warships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NAVAL_EXPERTISE_QUOTE">
+			<Text>"To read wind, waves, tide and sky is to know how much there is still to know."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_KYUJUTSU_TITLE">
+			<Text>Kyujutsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_KYUJUTSU_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Bow Samurai[ENDCOLOR], a more powerful Archer unit..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_KYUJUTSU_QUOTE">
+			<Text>"Archery is the art of letting the arrow go; it flies without thought."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_KENJUTSU_TITLE">
+			<Text>Kenjutsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_KENJUTSU_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]No-Dachi Samurai[ENDCOLOR], a powerful and aggressive Melee Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_KENJUTSU_QUOTE">
+			<Text>"When warrior and sword are one, they are invincible."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ESSENCE_OF_THE_SPIRIT_TITLE">
+			<Text>Essence of the Spirit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ESSENCE_OF_THE_SPIRIT_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Warrior Monks[ENDCOLOR], a powerful and aggressive Melee Unit available to Buddhist Clans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ESSENCE_OF_THE_SPIRIT_QUOTE">
+			<Text>"The body draws its strength from the cleansed soul."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SCHOOL_OF_SHINOBI_TITLE">
+			<Text>School of Shinobi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SCHOOL_OF_SHINOBI_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Ninja[ENDCOLOR], a powerful hidden assassin. Also allows you to build the [COLOR_POSITIVE_TEXT]Criminal Syndicate[ENDCOLOR], increasing [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SCHOOL_OF_SHINOBI_QUOTE">
+			<Text>"Schooling in the hidden arts benefits those who walk in shadows, and their masters."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FORM_TITLE">
+			<Text>Form</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FORM_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Yari Cavalry[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Bow Cavalry[ENDCOLOR], powerful Mounted Units. Also allows you to build the [COLOR_POSITIVE_TEXT]Warhorse Stables[ENDCOLOR], enabling construction of these units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FORM_QUOTE">
+			<Text>"Complication is ruination: function and form are one."</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

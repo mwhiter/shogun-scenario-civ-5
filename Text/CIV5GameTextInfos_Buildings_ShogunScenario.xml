@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/16/2018 10:48:01 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_YARI_DRILL_YARD">
+			<Text>Yari Drill Yard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_YARI_DRILL_YARD_STRATEGY">
+			<Text>The Yari Drill Yard allows recruitment of Yari Samurai, a more powerful anti-Mounted melee Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_YARI_DRILL_YARD_HELP">
+			<Text>The Yari Drill Yard allows recruitment of Yari Samurai, a more powerful anti-Mounted melee Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCHERY_DOJO">
+			<Text>Archery Dojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCHERY_DOJO_STRATEGY">
+			<Text>The Archery Dojo allows recruitment of Bow Samurai, a more powerful ranged Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCHERY_DOJO_HELP">
+			<Text>The Archery Dojo allows recruitment of Bow Samurai, a more powerful ranged Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_STABLE_STRATEGY">
+			<Text>The Stable allows recruitment of Light Cavalry, a powerful and fast Mounted Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_STABLE_HELP">
+			<Text>The Stable allows recruitment of Light Cavalry, a powerful and fast Mounted Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WARHORSE_STABLE">
+			<Text>Warhorse Stable</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WARHORSE_STABLE_STRATEGY">
+			<Text>The Warhorse Stable allows recruitment of more advanced cavalry units such as Yari Cavalry and Bow Cavalry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WARHORSE_STABLE_HELP">
+			<Text>The Warhorse Stable allows recruitment of more advanced cavalry units such as Yari Cavalry and Bow Cavalry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWORD_DOJO">
+			<Text>Sword School</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWORD_DOJO_STRATEGY">
+			<Text>The Sword School allows recruitment of sword-wielding melee Units such as the Katana Samurai and No Dachi Samurai.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWORD_DOJO_HELP">
+			<Text>The Sword School allows recruitment of sword-wielding melee Units such as the Katana Samurai and No Dachi Samurai.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NO_DACHI_DOJO">
+			<Text>No-Dachi Dojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NO_DACHI_DOJO_STRATEGY">
+			<Text>The No-Dachi Dojo allows recruitment of No-Dachi Samurai, a powerful aggressive melee Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NO_DACHI_DOJO_HELP">
+			<Text>The No-Dachi Dojo allows recruitment of No-Dachi Samurai, a powerful aggressive melee Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RICE_EXCHANGE">
+			<Text>Rice Exchange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RICE_EXCHANGE_STRATEGY">
+			<Text>The Rice Exchange increases the amount of [ICON_GOLD] a province generates.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_STRONGHOLD">
+			<Text>Stronghold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_STRONGHOLD_STRATEGY">
+			<Text>The Stronghold increases the city's Defensive Strength and Hit Points. The city must possess Walls before a Stronghold can be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_STRONGHOLD_HELP">
+			<Text>City must have Walls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_CASTLE_STRATEGY">
+			<Text>The Castle increases the city's Defensive Strength and Hit Points. The city must possess a Stronghold before a Castle can be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_CASTLE_HELP">
+			<Text>City must have a Stronghold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_CITADEL">
+			<Text>Citadel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_CITADEL_STRATEGY">
+			<Text>The Citadel is the strongest defensive building in the game. It makes your city almost impossible to siege, and is a mark of your clan's might! The city must possess a Castle before the Citadel can be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_CITADEL_HELP">
+			<Text>City must have a Castle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAKE_DEN">
+			<Text>Sake Den</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAKE_DEN_STRATEGY">
+			<Text>The Sake Den allows you to build Ninja, powerful recon and assassin units. The Sake Den increases a clan's [ICON_HAPPINESS_1] Happiness. It cannot provide more Happiness than there are [ICON_CITIZEN] Citizens in a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAKE_DEN_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Ninja[ENDCOLOR], a powerful assassin and recon unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CRIMINAL_SYNDICATE">
+			<Text>Criminal Syndicate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CRIMINAL_SYNDICATE_STRATEGY">
+			<Text>The Criminal Syndicate increases the [ICON_HAPPINESS_1] Happiness of your empire, but it cannot provide more happiness than there are citizens in the city. The city must possess a Sake Den before the Criminal Syndicate can be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUDDHIST_TEMPLE_DESC">
+			<Text>Buddhist Temple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUDDHIST_TEMPLE_STRATEGY">
+			<Text>Can only be built in cities following [ICON_RELIGION_SHINTO] Shinto Buddhism. The Buddhist Temple provides [ICON_PEACE] Faith per turn and enables creation of fearsome Warrior Monks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAPEL_DESC">
+			<Text>Chapel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAPEL_STRATEGY">
+			<Text>Can only be built in cities following [ICON_RELIGION_CHRISTIANITY] Christianity. The Chapel provides [ICON_PEACE] Faith per turn and enables creation of Imported Matchlock Ashigaru.</Text>
+		</Row>
+		<!-- Province Specialities -->
+		<!-- Every province has one of these buildings -->
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_BARREN_SOIL">
+			<Text>Barren Soil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_BARREN_SOIL_STRATEGY">
+			<Text>In Shogun: Sword of the Samurai scenario, provinces start with a pre-assigned soil fertility. Soil fertility cannot be modified in any way and will affect the amount of military units your clan is able to support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_MEAGRE_SOIL">
+			<Text>Meagre Soil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_MEAGRE_SOIL_STRATEGY">
+			<Text>In Shogun: Sword of the Samurai scenario, provinces start with a pre-assigned soil fertility. Soil fertility cannot be modified in any way and will affect the amount of military units your clan is able to support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_AVERAGE_SOIL">
+			<Text>Average Soil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_AVERAGE_SOIL_STRATEGY">
+			<Text>In Shogun: Sword of the Samurai scenario, provinces start with a pre-assigned soil fertility. Soil fertility cannot be modified in any way and will affect the amount of military units your clan is able to support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_FERTILE_SOIL">
+			<Text>Fertile Soil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_FERTILE_SOIL_STRATEGY">
+			<Text>In Shogun: Sword of the Samurai scenario, provinces start with a pre-assigned soil fertility. Soil fertility cannot be modified in any way and will affect the amount of military units your clan is able to support.[NEWLINE][NEWLINE]Fertile and Very Fertile provinces will allow you field many more powerful military units, and should be defended from invaders at all costs! If the province is captured, the capturing civilization will gain 50% more gold than normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_VERY_FERTILE_SOIL">
+			<Text>Very Fertile Soil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_VERY_FERTILE_SOIL_STRATEGY">
+			<Text>In Shogun: Sword of the Samurai scenario, provinces start with a pre-assigned soil fertility. Soil fertility cannot be modified in any way and will affect the amount of military units your clan is able to support.[NEWLINE][NEWLINE]Fertile and Very Fertile provinces will allow you field many more powerful military units, and should be defended from invaders at all costs! If the province is captured, the capturing civilization will gain twice as much gold than normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_SURFACE_GOLD_MINE">
+			<Text>Surface Gold Mine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_SURFACE_GOLD_MINE_STRATEGY">
+			<Text>A province with a Surface Gold Mine is rich and provides a lot of income per turn. Upgrade the Gold Mine even further to improve your income gains!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_BLACKSMITH">
+			<Text>Blacksmith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_BLACKSMITH_STRATEGY">
+			<Text>A province with a Blacksmith can produce units with higher quality armor and weapons than other provinces, increasing their combat prowess. Turn these provinces into military production factories and crush your foes with higher quality weapons and armor!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDING_BLACKSMITH_HELP">
+			<Text>All land units trained in this city start with the [COLOR_POSITIVE_TEXT]Improved Armor and Weapons[ENDCOLOR] promotion, increasing their [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

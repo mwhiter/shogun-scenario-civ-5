@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!-- Created by ModBuddy on 8/22/2012 4:37:47 PM -->
+<GameData>
+	<GameSpeeds>
+	</GameSpeeds>
+	<GameSpeed_Turns>
+		<Delete GameSpeedType="GAMESPEED_STANDARD"/>
+		<Row>
+			<GameSpeedType>GAMESPEED_STANDARD</GameSpeedType>
+			<MonthIncrement>3</MonthIncrement>
+			<TurnsPerIncrement>1000</TurnsPerIncrement>
+		</Row>
+	</GameSpeed_Turns>
+	<Defines>
+	</Defines>
+</GameData>

@@ -1,0 +1,15 @@
+# Ignore artwork
+*.dds
+*.blend
+*.psd
+*.dds
+*.jpg
+*.fxsxml
+*.gr2
+
+# ignore music
+*.mp3
+
+# ignore mod build stuff
+*.civ5proj
+*.Civ5Map

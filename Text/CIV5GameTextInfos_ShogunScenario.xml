@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/6/2018 11:16:04 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- Entry UI-->
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TITLE">
+			<Text>Shogun: Sword of the Samurai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_DESC">
+			<Text>Daimyo from all across Japan vie for control of the Shogunate. Who will unify Japan?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV5_DAWN_TEXT">
+			<Text>SCENARIO DESCRIPTION[NEWLINE]1545 - This is Sengoku Jidai, the age of the country at war. For 200 years, the Ashikaga Shoguns have ruled from Kyoto. Great splendor and power were theirs. Now, the overmighty clans no longer obey. The time has come for a new warlord to become Shogun. But who will win?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Capture the capital of Japan, Kyoto, and own 30 cities.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]City razing and settlers are off. Units are locked behind prequisite buildings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BRIEFING_BUTTON">
+			<Text>Briefing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_TURNS_REMAINING">
+			<Text>Turns Remaining: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_ERA_0">
+			<Text>Sengoku Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_ERA_0_SHORT">
+			<Text>Sengoku Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH1">
+			<Text>Winter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH2">
+			<Text>Winter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH3">
+			<Text>Spring</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH4">
+			<Text>Spring</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH5">
+			<Text>Spring</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH6">
+			<Text>Summer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH7">
+			<Text>Summer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH8">
+			<Text>Summer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH9">
+			<Text>Autumn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH10">
+			<Text>Autumn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH11">
+			<Text>Autumn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_MONTH12">
+			<Text>Winter</Text>
+		</Row>
+		<!-- Religion -->
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_RELIGION_BUDDHISM_PEDIA">
+			<Text>Known as Shin Buddhism or True Pure Land Buddhism, Jodo Shinshu Buddhism was founded by the Tendai Japanese monk Shinran. Today, Shin Buddhism is the most widely practiced branch of Buddhism in Japan.</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SHIMAZU_NAME">
+			<Text>Shimazu Takahisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SHIMAZU_SUBTITLE">
+			<Text>Daimyo of the Shimazu Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SHIMAZU_LIVED">
+			<Text>1514 - 1571 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SHIMAZU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SHIMAZU_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOJO_NAME">
+			<Text>Hojo Ujiyasu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOJO_SUBTITLE">
+			<Text>Daimyo of the Hojo Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOJO_LIVED">
+			<Text>1515 - 1571 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOJO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOJO_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TAKEDA_SHINGEN_NAME">
+			<Text>Takeda Shingen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TAKEDA_SHINGEN_SUBTITLE">
+			<Text>Daimyo of the Takeda Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TAKEDA_SHINGEN_LIVED">
+			<Text>1521 - 1573 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TAKEDA_SHINGEN_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TAKEDA_SHINGEN_TEXT_1">
+			<Text>
+				Takeda Shingen was the first-born son of Takeda Nobutora, leader of the Takeda clan, and daimyo of the province of Kai. He had been an accomplished poet in his youth. He assisted his father with the older relatives and vassals of the Takeda family, and became quite a valuable addition to the clan at a fairly young age. In 1536, at the age of 15, he was instrumental in helping his father win the Battle of Un no Kuchi.[NEWLINE][NEWLINE]At some point in his life after his "coming of age" ceremony, the young man decided to rebel against Nobutora. He finally succeeded in 1540, successfully taking control of the clan. Events regarding this change of leadership are not entirely clear, but it is thought that Nobutora had planned to name the second son, Nobushige, as his heir instead of Shingen. The end result was a miserable retirement that was forced upon him by Shingen and his supporters: he was sent to Suruga Province, on the southern border of Kai, to be kept in custody under the scrutiny of the Imagawa clan, led by his son-in-law Imagawa Yoshimoto, the daimyo of Suruga. For their help in this bloodless coup, an alliance was formed between the Imagawa and the Takeda clans.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TAKEDA_SHINGEN_HEADING_2">
+			<Text>Initial Expansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TAKEDA_SHINGEN_TEXT_2">
+			<Text>
+				Shingen's first act was to gain a hold of the area around him. His goal was to conquer Shinano Province. A number of the major warlords in the Shinano region marched on the border of Kai Province, hoping to neutralize the power of the still-young Shingen before he had a chance to expand into their lands. However, planning to beat him down at Fuchu (where word had it Shingen was gathering his forces for a stand), they were unprepared when Takeda forces suddenly came down upon them at the Battle of Sezawa. Taking advantage of their confusion, Shingen was able to win a quick victory, which set the stage for his drive into Shinano lands that same year and his successful Siege of Uehara. The young warlord made considerable advances into the region, conquering the Suwa headquarters in the Siege of Kuwabara before moving into central Shinano with the defeat of both Tozawa Yorichika and Takato Yoritsugu in the Siege of Fukuyo and Battle of Ankokuji. In 1543, he captured Nagakubo castle, Kojinyama in 1544, and then Takato and Ryugasaki in 1545. In 1546 he took Uchiyama and won the Battle of Odaihara. In 1547, he took Shika. However, the warlord was checked at Uedahara by Murakami Yoshikiyo, losing two of his generals in a heated battle which Murakami won. Shingen managed to avenge this loss and the Murakami clan was eventually defeated in the Sieges of Toishi. Murakami fled the region, eventually coming to plead for help from the Province of Echigo.[NEWLINE][NEWLINE]In 1548, Shingen defeated Ogasawara Nagatoki in the Battle of Shiojiritoge and then took Fukashi in 1550.[NEWLINE][NEWLINE]After conquering Shinano, Shingen faced another rival, Uesugi Kenshin of Echigo. The feud between them became legendary, and they faced each other on the battlefield five times in the Battles of Kawanakajima. These battles were generally confined to controlled skirmishes, neither daimyo willing to devote himself entirely to a single all-out attempt. The conflict between the two that had the fiercest fighting, and might have decided victory or defeat for one side or the other, was the fourth battle, during which the famous tale arose of Uesugi Kenshin's forces clearing a path through the Takeda troops and Kenshin engaging Shingen in single combat. The tale has Kenshin attacking Shingen with his sword while Shingen defends with his iron war fan or tessen. Both lords lost many men in this fight, and Shingen in particular lost two of his main generals, Yamamoto Kansuke and his younger brother Takeda Nobushige.[NEWLINE][NEWLINE]After the fourth battle of Kawanakajima, the Takeda clan suffered two internal setbacks. Shingen uncovered two plots on his life, the first from his cousin Suwa Shigemasa (whom he ordered to commit seppuku), and the second, a few years later, from his own son Takeda Yoshinobu. His son was confined to the Toko temple, where he died two years later; it is not known whether his death was natural or ordered by his father. After this incident, Shingen designated his fourth son, Takeda Katsuyori, as the acting leader of the clan after himself until Katsuyori's son came of age.[NEWLINE][NEWLINE]In 1553, he captured Katsurao, Wada, Takashima and Fukuda. In 1554 he took Fukushima, Kannomine, Matsuo and Yoshioka.[NEWLINE][NEWLINE]In 1563, allied with Hojo Ujiyasu, he captured Matsuyama Castle in Musashi Province. Takeda Shingen then took Kuragano in 1565 and Minowa Castle. He then moved against the Hojo by attacking Hachigata Castle then engaged in the Siege of Odawara (1569). He successfully withdrew after Hojo Ujiteru and Hojo Ujikuni failed to stop him in the Battle of Mimasetoge.[NEWLINE][NEWLINE]The death of Yoshinobu is believed to have much to do with the change in Shingen's Imagawa policy. After Imagawa Yoshimoto's death in a battle against Oda Nobunaga in 1560, Shingen had started to plan an invasion of Suruga, a territory now controlled by Yoshimoto's son Ujizane. Yoshinobu, however, had strongly opposed such a plan because his wife was the daughter of late Yoshimoto. By 1567, nonetheless, after Shingen had successfully kept the forces led by Uesugi Kenshin out of the northern boundaries of Shinano, taken over a strategically important castle in western Kozuke, and suppressed internal objection to his plans to take advantage of the weakened Imagawa clan, he was ready to carry out his planned Suruga invasion.[NEWLINE][NEWLINE]During this time Shingen also ordered the damming project of the Fuji River, which was one of the major domestic activities of the time.[NEWLINE][NEWLINE]Shingen and Tokugawa Ieyasu "came to terms" and occupied the "former Imagawa territory." They both fought against Yoshimoto's heir, Imagawa Ujizane. After defeating the intervention forces commanded by Hojo Ujimasa of Sagami, Shingen finally secured the Suruga, formerly base of the prestigious Imagawa clan, as a Takeda asset in 1569.[NEWLINE][NEWLINE]Upon securing Takeda control over Suruga, northern Shinano, and western Kozuke, Shingen moved to challenge the Oda-Tokugawa alliance, leading a formidable force of over 30,000 into the latter's territories in Totomi, Mikawa, and Mino in 1572.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TAKEDA_SHINGEN_HEADING_3">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TAKEDA_SHINGEN_TEXT_3">
+			<Text>
+				The exact circumstances surrounding Takeda Shingen's death are not known. There are many different stories, some of which are as follows.[NEWLINE][NEWLINE]When Takeda Shingen was 49 years old, he was the only daimyo with the necessary power and tactical skill to stop Oda Nobunaga's rush to rule Japan. He engaged Tokugawa Ieyasu's forces in 1572 and captured Futamata, and in January engaged in the Battle of Mikatagahara, where he defeated, but not decisively, a small combined army of Nobunaga and Ieyasu. After defeating Tokugawa Ieyasu, Shingen stopped his advance temporarily due to outside influences, which allowed the Tokugawa to prepare for battle again. He entered Mikawa Province, but soon died in the camp. Some accounts say he succumbed to an old war wound, some say a sniper wounded him earlier, and some accounts say he died of pneumonia. He was buried at Erin temple in what is now Koshu, Yamanashi.[NEWLINE][NEWLINE]The film Kagemusha, by director Akira Kurosawa, loosely depicts a well-known version of his death in which a single sniper shot him at night. The other aspects of his death depicted in the film were artistic liberties taken by the director.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHOSOKABE_MOTOCHIKA_NAME">
+			<Text>Chosokabe Motochika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHOSOKABE_MOTOCHIKA_SUBTITLE">
+			<Text>Daimyo of the Chosokabe Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHOSOKABE_MOTOCHIKA_LIVED">
+			<Text>1539 - 1599 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHOSOKABE_MOTOCHIKA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHOSOKABE_MOTOCHIKA_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MORI_MOTONARI_NAME">
+			<Text>Mori Motonari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MORI_MOTONARI_SUBTITLE">
+			<Text>Daimyo of the Mori Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MORI_MOTONARI_LIVED">
+			<Text>1497 - 1571 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MORI_MOTONARI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MORI_MOTONARI_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTOMO_SORIN_NAME">
+			<Text>Otomo Sorin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTOMO_SORIN_SUBTITLE">
+			<Text>Daimyo of the Otomo Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTOMO_SORIN_LIVED">
+			<Text>1530 - 1587 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTOMO_SORIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTOMO_SORIN_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UESUGI_KENSHIN_NAME">
+			<Text>Uesugi Kenshin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UESUGI_KENSHIN_SUBTITLE">
+			<Text>Daimyo of the Uesugi Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UESUGI_KENSHIN_LIVED">
+			<Text>1530 - 1578 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UESUGI_KENSHIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UESUGI_KENSHIN_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IKKO_IKKI_NAME">
+			<Text>Ikko Ikki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IKKO_IKKI_SUBTITLE">
+			<Text>Leader of the Ikko Ikki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IKKO_IKKI_LIVED">
+			<Text>1543 - 1592 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IKKO_IKKI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IKKO_IKKI_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<!-- Civilizations -->
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_SHIMAZU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_SHIMAZU_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_HOJO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_HOJO_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_ODA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_ODA_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_TAKEDA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_TAKEDA_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_CHOSOKABE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_CHOSOKABE_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_MORI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_MORI_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_OTOMO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_OTOMO_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_UESUGI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_UESUGI_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_IKKO_IKKI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV_IKKO_IKKI_TEXT_1">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<!-- Minor Civilizations -->
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV5_BUDAPEST_TEXT">
+			<Text>Ito clan.</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV5_ANTIQUITY_SPEARMAN_TEXT">
+			<Text>
+				These ashigaru are armed with long spears for use in close combat or to make an almost-impenetrable defence against cavalry.[NEWLINE][NEWLINE]The spear is a remarkably flexible weapon in tactical terms. It can be used in single or mass combat and is equally effective for attack and defence. Yari ashigaru are armed with very long spears that are almost pikes, and can be used to lead a battle charge into battle or act as pincers. They are well-drilled, but lack the skill and dedication of samurai. Yari ashigaru are most effective when they work together as a block, forming a wall of spears. Any cavalry that charges into a well-managed formation of yari ashigaru will be wiped out as the horses and riders are skewered.[NEWLINE][NEWLINE]By the Sengoku Jidai, the yari was the most common weapon issued to ashigaru and samurai, although they used different fighting techniques and tactics. The ashigaru would use spears in formation, particularly against cavalry charges. Each would take a kneeling position and form a line, laying their spears on the ground in front of them. As the charge grew nearer they would be ordered to raise their spears and, at the last moment, thrust the spears upwards into the belly of the horse. Once a spear was in a target it was to be held firmly in place until otherwise ordered.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YARI_SAMURAI_TEXT">
+			<Text>
+				These spear-wielding warriors can be used to lead the charge or to form a defensive wall of spears.[NEWLINE][NEWLINE]Yari samurai are extremely adaptable in battle. Spears can be used at the charge, while in defence they form an almost impenetrable wall against cavalry. The length of spears makes them especially effective against mounted troops, where they can pierce the breast of the horse or skewer a rider. In melee, yari samurai are skilled warriors that perform well against all but the best infantry troops. However, they have no defence against missile attacks, lacking the mobility to move quickly out of range.[NEWLINE][NEWLINE]The yari became increasingly popular among generals as the Sengoku Jidai progressed: ashigaru as well as samurai warriors were armed with it, though each used it very differently. Ashigaru yari were much longer, as they were used to create a wall of spears, and even then the length varied from clan to clan. For the samurai, the yari became used as they realised that the bow made them vulnerable when in close combat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WARRIOR_MONK_TEXT">
+			<Text>
+				These warrior monks wield fearsome naginata: long polearms effective against cavalry and infantry alike.[NEWLINE][NEWLINE]A warrior with an unshakable faith can be very dangerous, for the truly devout have little to fear from death. For these monks, faith is not just a matter of conscience, but another weapon and one that gives them very good morale in battle. The weapon they carry is a naginata, a long staff with a blade fixed to the end. The polearm’s long reach makes it effective against cavalry and infantry, but this versatility is no protection against specialist troops.[NEWLINE][NEWLINE]A naginata was, and still is, a polearm weapon similar to the medieval European glaive: a long, wooden shaft with a curved killing blade. The blade varied in length and was made to the same quality standard as a sword blade. These distinctive looking weapons were closely associated with warrior monks, and most famously used by Gochin no Tajima (Tajima the “arrow cutter”) at the battle of Uji in 1180. Gochin was part of a group of samurai and warrior monks pursued by the Taira clan. He made a defensive stand at a bridge, whirling his naginata with such expertise that the enemy’s arrows harmlessly bounced away.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIV5_ANTIQUITY_ARCHER_TEXT">
+			<Text>
+				Bow ashigaru are light foot archers used to screen the front line, harassing enemies with long range volleys of arrows.[NEWLINE][NEWLINE]These soldiers do not possess the prowess or prestige of samurai, but they are still a formidable force. In the same time it takes to fire and reload a firearm once, these archers can loose a dozen arrows upon the enemy. Once hand-to-hand fighting starts they should retreat to safety behind the battle line, as bow ashigaru are not trained or properly equipped for melee. They must also be wary of cavalry, having little defence against a charge. Historically, bow ashigaru were used as skirmishers and sharpshooters, and were also expected to take part in close combat once they had fired all their arrows. Perhaps surprisingly, they were not made obsolete by the arrival of guns. While gunners reloaded, archers could continue to fire arrows, providing cover and maintaining the pressure on an enemy. It was the job of the yumi ko gashira, an ashigaru commander, to judge when the enemy was in range and when to fire so that no arrows were wasted. Assistants would be ready with well-stocked boxes of arrows for resupply, and, if they ran out, an archer could always pick up enemy arrows and return them to the original owners!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOW_SAMURAI_TEXT">
+			<Text>
+				These samurai archers are superb shots with an excellent range and the ability to fire an accurate volley of flaming arrows.[NEWLINE][NEWLINE]Archery has a long history in Japanese warfare and every samurai is expected to have mastered the art. Less skilled warriors can be trained to fire en masse, but it takes dedication and skill to shoot with accuracy, particularly in the heat of battle. Bow samurai can also shoot fearsome flaming missiles. These troops have high morale and are well-trained so can fight in melee if needed. They are vulnerable if attacked by cavalry.[NEWLINE][NEWLINE]In early samurai culture, proficiency with the bow was just as important as with the katana. In the 12th century, battles often started with an archery duel between the two factions, signalled by the firing of special whistling arrows. The Sengoku Jidai saw the bow marginalised as warfare changed. Individual battles of skill were replaced by sheer numbers and mass volleys. Also, the arquebus could be used by ordinary foot soldiers, and the spear could be used in close combat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LIGHT_CAVALRY_TEXT">
+			<Text>
+				These mounted samurai are armed with short spears and are best used to disrupt enemy missile units and to chase routing foes.[NEWLINE][NEWLINE]Light cavalry are swift, and can deliver a devastating charge thanks to their spears. However, they should then break off, reform and attack again rather than remaining in melee. Like all samurai, they are well motivated by their sense of honour and have high morale in battle. Their speed over a battleground comes in useful when chasing down fleeing troops, or when they are needed to deliver a final blow to wavering enemies. They are, however, the weakest cavalry when fighting infantry, and are vulnerable if mishandled when facing spear infantry or if left within range of missile troops.[NEWLINE][NEWLINE]Historically, mounted combat was the traditional identifier of the samurai as a warrior and social class, just like the knights of medieval Europe. Being a mounted warrior required wealth and position to sustain the expense of horses, armour and servants. Perhaps this goes some way to explaining why many samurai came to fight on foot, as it was cheaper to take part in battle! Some traditions, however, such as seeking out an equally skilled and honourable foe refused to die, even though they ran counter to the idea of army and unit discipline.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YARI_CAVALRY_TEXT">
+			<Text>
+				Each yari cavalry samurai is armed with a long spear that makes him particularly deadly when swiftly charging into combat.[NEWLINE][NEWLINE]Yari cavalry focus all the power of their fearsome charge into the points of the long spears they carry as they smash into enemy cavalry and infantry alike. Their high morale spurs them into battle and keeps them from routing, even when engaged in melee, where their spears are at a disadvantage. Yari cavalry are best used to attack the rear or flanks of infantry to avoid spear counter-attacks and getting caught in messy, close-quarters fighting. Their amazing speed over the ground makes this entirely possible, as they can rarely be caught even by other cavalry units.[NEWLINE][NEWLINE]During the Sengoku Jidai, the spear and sword superseded the bow as the weapons of choice for samurai cavalry. Despite a long tradition of mounted archery, a bow could not be used in melee, leaving cavalry archers vulnerable to counter-attacks by foot soldiers. Spears, on the other hand, could be used to break enemy defences in a full charge, or used in quick, slashing strokes whilst in close combat. Swords could be used to cut an enemy down, but obviously lacked the range of a bow, or spear. However, if a samurai was wealthy enough, he would have an attendant to carry and hand him his bow, spear or sword, depending on the situation and personal preference.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOW_CAVALRY_TEXT">
+			<Text>
+				Trained to aim and fire a bow while riding, these samurai make excellent skirmishers.[NEWLINE][NEWLINE]With both hands occupied by aiming and firing a bow, these men must use their knees to control and steer their mounts. Japan has a long tradition of mounted archery and these troops remain invaluable despite the introduction of gunpowder. Matchlocks may be powerful, but they are also unreliable and inaccurate, and the ashigaru who use them simply lack the skills and mobility of mounted samurai. These cavalry archers can quickly move to the flanks of an enemy, or harass the enemy at a distance. If caught in melee, they have enough training to defend themselves, but they should avoid fighting spearmen or heavy cavalry.[NEWLINE][NEWLINE]The introduction of arquebuses in the Sengoku Jidai threatened the Japan's ancient tradition of mounted archery. Guns meant that a daimyo could bolster his army with large numbers of arquebus-armed ashigaru rather than relying on the skilful, but less numerous, samurai.[NEWLINE][NEWLINE]Fortunately for the samurai, horse archery was too important a tradition to die out, and the art survived. For training, they would shoot at corralled dogs, or at wooden targets while speeding along a set course. The latter training method, called yabusame is still practiced today at special demonstrations for visiting dignitaries, and participation is considered a great honour.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NO_DACHI_TEXT">
+			<Text>
+				These foot warriors carry large and heavy no-dachi swords and have a fearsome charge when in battle.[NEWLINE][NEWLINE]These samurai are armed with the no-dachi. These are extremely heavy, long swords that can only be wielded by the strongest and most skilled of men. These swords can do a lot of damage and the no-dachi samurai use them for devastating charges into infantry, where they can often break through defensive lines. Only very brave men charge into the enemy on foot, but no-dachi samurai are known for their high morale. They are shock troops and not particularly effective when defending, especially against cavalry and missile troops.[NEWLINE][NEWLINE]Historically, the no-dachi was a much longer and heavier sword than the more famous katana. It required considerable strength to lift and swing, and the sheer size of it stopped any use in confined spaces. Instead, it was used in open field battles or against mounted warriors. In peaceful times it could be worn to display status but, rather than being hung from the waist like a tachi or katana, this mighty sword was slung across the shoulder.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_KATANA_SAMURAI_TEXT">
+			<Text>
+				These are elite heavy infantry armed with katana; expertly crafted two-handed swords that are a perfect combination of sharpness and resilience.[NEWLINE][NEWLINE]Katana samurai are an elite heavy infantry unit. They form part of the main line in battle, charging forward to engage the enemy in close combat. The katana is a very effective melee weapon. Its incredibly sharp blade easily cuts through enemies, while the flat deflects enemy blows.[NEWLINE][NEWLINE]A samurai goes into battle accepting death and fearing little, which gives him excellent morale. Accepting death and foolishly risking your life for no purpose are not the same thing, and katana samurai must be wary of threats from cavalry and missile troops, against which they have little defence.[NEWLINE][NEWLINE]The katana sword is the weapon most readily associated with the samurai. Its elegant, curved single blade is created from many folded layers of high carbon steel (that can take a sharp edge but is brittle), and low carbon steel (that is tough but relatively soft and prone to blunting). By combining both metals, the katana manages to be tough and retain a razor sharp edge.[NEWLINE][NEWLINE][NEWLINE][NEWLINE]Historically, the katana was made to be used as a two-handed sword, the sharp edge of the blade would cut into an enemy and the momentum of the samurai’s blow would carry it through their body, often killing in one deft movement. It was a sword used for cutting rather than thrusting. A shield was not necessary, as the sword could be used to parry and deflect an enemy’s strikes using the flat of the blade, without fear of it breaking.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOW_KOBAYA_TEXT">
+			<Text>
+				A bow ship is small, fast and manned by archers who bombard enemy crews.[NEWLINE][NEWLINE]The ship’s purpose is to stay on the edges of a fleet, quickly moving to key points to provide fire wherever necessary. Its speed means it can avoid being boarded by soldiers from heavier, more powerful ships while harassing them with arrows. The crew of this vessel is not expected to launch boarding attacks, only soften up a target for other friendly ships. They also have the ability to fire flaming arrows for a short period of time, which are much more devastating than standard arrows. Ironically, the archers are also vulnerable to missile fire as the upper deck of the ship has no protection.[NEWLINE][NEWLINE]During the Sengoku Jidai, ships were mostly made from wood, occasionally augmented by thick bamboo or iron plates. This made them inflammable, and it was quite common to set fire to a vessel prior to boarding it. Archers would use fire arrows, or bombs would be thrown, all in the interests of making life as difficult as possible for the defenders. However, boarding actions were the most important tactic of war at sea, and everything else was subordinated to them. This was just as well, as incendiary weapons lacked the power of cannons, which were hardly common. Japanese naval warfare never went the same way as European naval tactics, with ships becoming gun platforms and fighting at a distance for the most part.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FIRE_BOMB_KOBAYA_TEXT">
+			<Text>
+				These ships are small, fast, and carry fire bomb throwers who hurl explosive grenades at enemy ships.[NEWLINE][NEWLINE]Fire bombs are ceramic pots filled with gunpowder that are swung above the head before being released. When they explode, hopefully on impact, they burn enemies and spread flames in every direction. As even the heaviest of ships are largely of wooden construction, they are very vulnerable to fire. The fire bombs have a short range, so fire bomb ships need to get in close, attack, and then use their speed to escape before they are counter-attacked and boarded. Missile fire from other vessels can also be a threat, as there is no protection for the crew on the upper deck. These ships also have the ability to deploy naval mines outside of the deployment zone prior to the start of a battle. However, these mines are indiscriminate, and if blundered into, can be just as deadly to your own ships as well as the enemy![NEWLINE][NEWLINE]During the Sengoku Jidai, incendiary weapons such as fire arrows and bombs were used in naval battles. The bombs would be flung by hand using a rope or net sling or launched by catapults mounted on the deck. The Murakami clan managed to set fire to one of Oda Nobunaga’s ships in such a way at the first battle of Kizugawaguchi in 1576. One of the clan, Murakami Takeyoshi, was a pirate who had elevated himself into a lord through his naval expertise. His experience was so great that both the Oda and their enemies, the Mori, sought his aid in battle.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MEDIUM_BUNE_TEXT">
+			<Text>
+				These ships are good all-rounders: dependable sailors, strong enough for battle without sacrificing too much speed.[NEWLINE][NEWLINE]Medium or “seki” bunes are likely to be the main element of any clan navy, thanks to their size and general “handiness”. They have reasonably strong hulls and carry enough crew to give them the ability to support bigger ships. They also retain enough speed and manoeuvrability to combat the lighter, faster ships. This puts them somewhere between the ataka bune and kobaya in terms of their uses and deployment. Because they are not specialised, medium bunes will not be able to match speeds with lighter ships or the strength of heavy vessels, but they have versatility on their side.[NEWLINE][NEWLINE]Historically, seki bunes hulls resembled smaller versions of the ataka bunes, with the addition of a pointed bow. They also lacked the ataka’s deck house. Ataka bunes were extremely powerful but their size made them sluggish and unresponsive. The seki bunes were a response to this, and managed to combine speed with strength, making them flexible fleet units for any sea-going general.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HEAVY_BUNE_TEXT">
+			<Text>
+				Heavy bunes are the mainstay of a fleet. Each carries large detachments of soldiers and bow-armed troops to attack enemy vessels.[NEWLINE][NEWLINE]A heavy bune is a bulky, boxy warship with thick wooden-panelled sides to protect the ship and crew alike. Inside it carries a large number of boarding troops, some armed with bows to fire from the loopholes in the panels. The size and weight of the vessel can make it slow and unresponsive, but it is not built for speed. Instead, it serves as a floating platform in battle. Sailing in close to an enemy ship, the crew uses grappling hooks to lash the vessels together, and then the boarding party engage the enemy in hand-to-hand combat.[NEWLINE][NEWLINE]During the Sengoku Jidai, large ships were common. The ‘ataka bune’ resembled a floating castle and carried armed samurai and ashigaru as well as sailors to man it. The Japanese did not rely on cannon to sink enemy ships, but would board and fight face-to-face as if they were on land. The ataka bune was specifically built for this tactic and had a folding bridge section that opened so that troops could cross from one vessel to another. This way of fighting was in keeping with the samurai ideal of combat, where a warrior would seek out a worthy opponent and fight in single combat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CIVILOPEDIA_UNITS_MEDIEVAL_MUSKETMAN_TEXT">
+			<Text>
+				These ashigaru troops are armed with matchlock arquebuses and pepper the enemy with long range, mass volleys.[NEWLINE][NEWLINE]The role of matchlock ashigaru is to unleash massed gun volleys upon the enemy, keeping them confused and, in the process, weakening them enough for a frontline charge. Once fired, the matchlock guns take a long time to reload, but their range, noise, and effect on enemy morale more than compensates for this lack of speed. The smoke and fire they produce can be very disorientating to enemies, particularly when targets are dropping all around. When the main fighting starts matchlock gunners should retreat behind melee troops. They do not have the training to fight in close combat and have no defence against a cavalry charge.[NEWLINE][NEWLINE]Historically, it was considered a great honour for any samurai to fire the first shot of a battle. The honour traditionally fell to the samurai archers, who opened most battles with an archery duel. However, the Sengoku Jidai introduced the European arquebus, guns which required much less skill to use than the bow. The archery duel became an exchange of gunfire and, as the guns were largely carried by ashigaru, the first shots were now fired by simple foot soldiers. The ashigaru gunners were led by a teppo ko gashira, a man chosen for his skill and courage, who ordered when to load, when to fire and signalled his superiors when the enemy had been weakened enough for a charge to be attempted.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUDDHIST_MONK_TEXT">
+			<Text>
+				Placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NINJA_TEXT">
+			<Text>
+				These ninja are virtually undetectable in battle, capable of carrying out deadly surprise attacks.[NEWLINE][NEWLINE]Kisho ninja have mastered the art of invisibility, making them highly effective assassins who possess terrifying supernatural powers! In fact, their skills are actually the product of a lifetime of intensive training, cunning and the clever use of misdirection. The ability to move about largely unseen on the battlefield means they appear from nowhere, launch an assault on an enemy general and then vanish before they are caught or killed.[NEWLINE][NEWLINE]They are armed with throwing knives for short-range attacks and their blinding grenades can disorientate an enemy for a short time, reducing their fighting ability. To remain as stealthy as possible kisho ninja operate in small numbers, so must avoid prolonged close combat because they cannot afford to take many casualties.[NEWLINE][NEWLINE]Historically, ninja were rarely used on the battlefield itself, although their fighting prowess was certainly equal to the challenge. Instead, a daimyo would hire them to undertake espionage missions or assassinate rivals. The ninja’s role was to carry out tasks that others could not honourably accomplish, as they were not constrained by bushido, the code that governed samurai behaviour. During sieges, ninja would infiltrate an enemy’s castle in disguise, gather intelligence and cause confusion by, for example, setting fires - leading the enemy to assume he had turncoats within his walls.
+			</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ARCHERY_DOJO_TEXT">
+			<Text>
+				The ability to shoot accurately should be prized in all archers, but it requires training and dedication to achieve. An archery range allows basic archery to be taught, and bow-armed units to be recruited. It does not, however, teach the advanced skills of archery: it is sufficient here to hit the target and do so in the proper manner. Combat will teach men how to keep firing when under threat![NEWLINE][NEWLINE]The bow was not solely used for war. Recreational archery and hunting played an important part in the art. The bow itself was a beautiful and complicated piece of equipment, with an unusual asymmetric shape: the grip was well below the mid-point. This unusual design came about because horse archery was the first skill of all samurai: a bow with the grip in the middle would have been completely unmanageable on horseback and become entangled in the saddle furniture. The short lower section meant it could be swung over the horse’s neck and back quickly. The bow itself was a composite, made of bamboo, wood and leather and was often much taller than the user. The design was extremely strong, and it was not uncommon for bow strings to snap under the strain of being fired. Archers would carry at least one spare string at all times for such emergencies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NO_DACHI_DOJO_TEXT">
+			<Text>
+				These foot warriors carry large and heavy no-dachi swords and have a fearsome charge when in battle.[NEWLINE][NEWLINE]These samurai are armed with the no-dachi. These are extremely heavy, long swords that can only be wielded by the strongest and most skilled of men. These swords can do a lot of damage and the no-dachi samurai use them for devastating charges into infantry, where they can often break through defensive lines. Only very brave men charge into the enemy on foot, but no-dachi samurai are known for their high morale. They are shock troops and not particularly effective when defending, especially against cavalry and missile troops.[NEWLINE][NEWLINE]Historically, the no-dachi was a much longer and heavier sword than the more famous katana. It required considerable strength to lift and swing, and the sheer size of it stopped any use in confined spaces. Instead, it was used in open field battles or against mounted warriors. In peaceful times it could be worn to display status but, rather than being hung from the waist like a tachi or katana, this mighty sword was slung across the shoulder.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CHAPEL_TEXT">
+			<Text>
+				The humility of this structure belies its spiritual power. The missionaries that go forth from here are capable of converting the people to Christianity, and of spreading sedition among enemies. The building itself is more than a meeting place: like all churches, the design formally codifies the details of the faith.[NEWLINE][NEWLINE]The Jesuit missionary Francis Xavier brought Christianity to Japan in 1549. Despite language difficulties, he was modestly successful in communicating Christian ideas to his new flock. The Jesuits were a relatively new, vigorous order within the Catholic Church, formed to fight the Protestant ideas of Martin Luther. As “shock troops” of the Reformation, they had both a martial and scholarly air to them that was undoubtedly appealing to samurai sensibilities. However, Christianity faced much hostility because it did not honour ancestors. Indeed, missionaries told their Japanese audience that their ancestors were damned or, at best, virtuous pagans. Despite these problems, the Christian community probably numbered around 100,000 people by 1579. Francis Xavier would eventually be canonized as a saint for his efforts in the far-flung foreign lands. He is still a Catholic patron saint of missionaries.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_YARI_DRILL_YARD_TEXT">
+			<Text>
+				The drill yard allows the recruitment and training of yari-armed samurai units. Using a spear effectively in battle requires training, discipline and trust.[NEWLINE][NEWLINE]The art of using a spear, sojutsu, is one of many Japanese martial arts, and probably among the oldest. The spear was, with the bow, one of the traditional weapons of the samurai. The spear also has its place in Japanese mythology, because drops falling from the tip of ame-no-nuboko, the “Heavenly Jewelled Spear” formed the islands of Japan. This spear, however, is also referred to as a naginata, a slightly shorter slashing pole arm.[NEWLINE][NEWLINE]The spear came to be seen as a very cost-effective weapon for troops during the feudal wars of the Sengoku Jidai. Combined with bow and matchlock armed troops, spearmen formed the core of most clan armies. Spear fighting in Japan was a good deal more aggressive than the “push of pikes” that went on in European battles of roughly the same period. This probably reflected the more honour-bound and glory-hungry nature of Japanese warfare, as many European armies were full of mercenaries who could only be paid if they were still alive!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SWORD_DOJO_TEXT">
+			<Text>
+				The sword school allows the recruitment of katana samurai units. Use of the sword is a serious business, and the teaching and practice of sword fighting is equally serious. Students are expected to approach the subject with the deepest reverence. This is not unsurprising, given that a katana, or long sword, can easily sever a limb if handled carelessly![NEWLINE][NEWLINE]Samurai were the only people allowed to wear a pair of swords, the daisho (literally “long and short”) of a katana and a wakizashi. Constant practice was required to use a sword properly, and many schools taught the art of kenjutsu. Iaijutsu was also taught, but this was the specialised skill of drawing and striking with a sword away from the battlefield, a useful thing for self-defence in dangerous times. The emphasis in all teaching, however, was on combat, not on sport or fun. Style mattered, but only as long as it aided the serious business of beating an opponent. Teaching also concentrated on the katana, although a few practitioners, such as the famous sword-saint, Miyamoto Musashi, favoured a two-sword style.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_WARHORSE_STABLE_TEXT">
+			<Text>
+				Where horses are available these stables allow the recruitment of a wide range of cavalry units. Battle tests the spirit of horses as surely as it tests their strength. Some are better suited to the clamour and din than others, and accept the training required of them. Warhorses must be able to ride headlong into an angry crowd, ignore flames, and keep going even when every natural instinct tells them to run.[NEWLINE][NEWLINE]As might be expected, cavalry furniture for horses in Japan developed in a somewhat different fashion compared to the rest of the world. Japanese saddles were traditionally made of wood, and carefully designed to give the rider a stable platform for archery. Such considerations made them unsuitable for use over long distances, or at speed, as they were heavy and uncomfortable. The reins and bridle, however, were light and made of silk. The strangest pieces of equipment, to outside eyes, were the umagutsu. These straw sandals were shoes for the horses, and very similar to human footwear. The umagutsu provided extra traction in wet conditions, and this alone was no small matter when battles were often fought across paddy fields and farmland. They also helped quieten the sound of the horses’ hooves.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDINGS_BARREN_SOIL_DESC">
+			<Text>
+				Soil fertility refers to the ability of soil to sustain agricultural plant growth. Different provinces in Japan have different fertilty, and this affects the farm income of a province.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDINGS_MEAGRE_SOIL_DESC">
+			<Text>
+				Soil fertility refers to the ability of soil to sustain agricultural plant growth. Different provinces in Japan have different fertilty, and this affects the farm income of a province.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDINGS_AVERAGE_SOIL_DESC">
+			<Text>
+				Soil fertility refers to the ability of soil to sustain agricultural plant growth. Different provinces in Japan have different fertilty, and this affects the farm income of a province.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDINGS_FERTILE_SOIL_DESC">
+			<Text>
+				Soil fertility refers to the ability of soil to sustain agricultural plant growth. Different provinces in Japan have different fertilty, and this affects the farm income of a province.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDINGS_VERY_FERTILE_SOIL_DESC">
+			<Text>
+				Soil fertility refers to the ability of soil to sustain agricultural plant growth. Different provinces in Japan have different fertilty, and this affects the farm income of a province.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDINGS_SURFACE_GOLD_MINE_DESC">
+			<Text>
+				There is gold in this province. By investing in bigger and deeper mines, and the associated smelters above the mine tunnels, it is possible to greatly increase the wealth generated here. Gold is, of course, always welcome to any daimyo because all wise commanders know that wars cannot be fought, let alone won, without wealth.[NEWLINE][NEWLINE]Gold mining, however, is a dirty and dangerous business for the miners and surface workers. Their lives are likely to be short and brutal, and woe betide anyone who even thinks about stealing any of the produce!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_BUILDINGS_BLACKSMITH_DESC">
+			<Text>
+				As the iron is forged so too is bravery, but in a hotter fire.[NEWLINE][NEWLINE]There are specialist blacksmiths in this province. They may be ordered to follow one of two paths: that of the sword, or the way of the armourer. These specialists will greatly improve the melee attacks of the clan's units, or their armour in battle.[NEWLINE][NEWLINE]Iron working has always been a much-appreciated skill in Japan. The art of forging swords is a delicate and time-consuming business, and skilled swordsmiths were both honoured and sought after as retainers. Armourers, on the other hand, sometimes fared less well in terms of social status because their craft used leather, and tanning was a job for social outcasts as it involved handling dead animals. Some armourers would sign their work, and produce complex family histories to elevate their status. Nevertheless, the products of their labour, such as the elaborate and beautiful o-yoroi, are still valued today. King James I of England was sent gifts of samurai armour by the Tokugawa shogunate; the armour is still in the Royal Armouries collection.[NEWLINE][NEWLINE]Finally, armour was expensive, and this often meant that suits of armour re-used pieces from older sets. This makes dating particular pieces of armour tricky, because it was not uncommon for older maker's marks to be erased and the refurbisher's mark to be put on instead.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STRONGHOLD_TEXT">
+			<Text>
+				A stronghold looms above the people in their villages, a reminder from dawn to dusk of where their loyalties should lie, and to whom they must pay their taxes. It is a strong base for the local garrison troops, enabling them to control the area, and act as a barrier to any invader. The stronghold also acts as a centre for recruiting new troops to serve in the daimyo’s armies, and helps increase the clan’s fame.[NEWLINE][NEWLINE]Stone was introduced as a construction material for Japanese castles to provide protection against the elements and create sturdy foundations, always a problem in a nation so beset by earthquakes. Stone foundations also allowed the building to have more stories. A large, sloped foundation platform was first carved out of the earth, which was then clad in stone to make a very strong bastion. These foundations could support impressive multi-storied towers, a sign of wealth and power. The bastions were also obstacles for any enemy attack, and were perfect for the defenders to rain arrows down on besiegers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CITADEL_TEXT">
+			<Text>
+				This awe-inspiring building is intended to make all who see it marvel, or tremble, at its scale and the power it represents. It is a monument to the untrammelled wealth and military might of a daimyo and his clan. Cunningly built to confuse and confound attackers, it also serves to intimidate the local people who live, work, pay taxes and die in its shadow. It is of such magnificence that it also increases the prestige of its builders.[NEWLINE][NEWLINE]Towards the end of the Sengoku Jidai, castles became even larger and more elaborate, as they evolved from military fortresses to cultural and economic centres for the surrounding provinces. The castle at Himeji was one such structure, built by Toyotomi Hideyoshi in 1581 on top of Himeyama as a three-storey tower and then completely reworked by Ikeda Terumasa, his son-in-law. The hill position made it a formidable defensive site, and the inner citadel compound was a maze of courtyards and compounds to frustrate any enemy who gained entry. The rebuilt castle was all of that, but remains even today a spectacular and refined palace. It is still a popular tourist attraction.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BUDDHIST_TEMPLE_TEXT">
+			<Text>
+				Everyone turns to the gods in their hour of need. In the sixth century, when Prince Shotoku of the Soga needed help to banish anti-Buddhist elements from Japan, he called on the fearsome Bishamon to aid him in his efforts. Originally the protector of the north, Bishamon became the protector of the law who guarded people from illness and demons. He was also worshipped as a war god, and was one of the Shichi Fukujin, the seven deities of happiness and good luck. He normally appeared as a blue-faced warrior with a spear and a pagoda. These items represented his dual personality, half warrior, half monk, but always a protector of the faithful.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_RICE_EXCHANGE_TEXT">
+			<Text>
+				A rice exchange significantly improves a province’s wealth and growth. Rather than each village relying on its own crops and living from harvest to harvest, an exchange allows merchants to buy up rice crops, and ship them to market as needed. Overall, the effect is to even out the good and bad harvests at some cost to the peasants, who may not always be able to afford the food they have grown.[NEWLINE][NEWLINE]Merchants were part of the social class of chonin, or townsmen. This gave them few privileges compared to the samurai warrior class. However, they were able to amass considerable wealth. This helped them survive the transition from an age of warfare to an age of enforced peace under the Tokugawa shogunate. Business went on as usual and, if anything, improved. In the long run, the samurai were not so fortunate: their social caste meant that they could not work and retain their honour as samurai. The strict social edicts of the Tokugawas didn’t help either, and many samurai were reduced to penury when there was no longer constant warfare.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SAKE_DEN_TEXT">
+			<Text>
+				A sake den makes people happy, after a fashion. There is much to be said in favour of a flask of sake at the end of a long, hard day, and many troubles look much smaller after a convivial evening. In the shadows, however, and hidden behind smiles, darker business can be transacted: secrets exchanged and arrangements made. Among other dangerous types, ninjas are to be found here.[NEWLINE][NEWLINE]One of the most popular beverages in Japan, sake was originally only produced in small quantities for personal consumption. In the 1300s, however, mass production began in larger distilleries, often near temples and shrines. In later years, the main producers kept to the same places thanks to the availability of good sake rice and good, clean water. Sake was often used in Shinto rituals, and today barrels of sake are still left at shrines as rather splendid offerings to the spirits. Sake is also central to the Shinto ceremony of “kagami biraki”, performed at weddings and festivals. Wooden casks of sake are smashed open with a mallet, and the drinks are then served to all the guests to bring them good fortune.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CRIMINAL_SYNDICATE_TEXT">
+			<Text>
+				A town with no crime is too poor to have anything worth stealing! Crime syndicates, however, are not about theft: they provide all kinds of illicit and enjoyable services to the local people, even as they intimidate troublesome individuals into keeping quiet. The syndicate has a positive effect on wealth, give or take, and it aids in procuring the services of a dangerous class of men: battlefield ninjas.[NEWLINE][NEWLINE]Japanese crime syndicates, the yakuza, have a long tradition and can trace their origins back to the era of the Tokugawa shogunate and earlier. The name is deliberately ironic: a portmanteau of the Japanese for eight, nine and three, a losing hand at cards. From their start as gamblers, the yakuza became a mirror of samurai society, with their own codes of honour. Yakuza are famed for their tattoos, the elaborate designs showing that the wearer has the strength to take the pain of his decorative work. Other than yakuza, the only Japanese group to regularly carry tattoos are firemen. Tattoos are a reason for ordinary Japanese to be suspicious of strangers.
+			</Text>
+		</Row>
+		<!-- Techs -->
+		<Row Tag="TXT_KEY_TECH_TECH_PRE_WAR_KNOWLEDGE_DESC">
+			<Text>Placeholder text.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BUSHIDO_DESC">
+			<Text>
+				The code of bushido is an unbreakable trust between samurai and master, a guide to the ways of war, and a pattern of life to be followed. For any samurai it is simply the only way he can live and retain honour. For a daimyo it is a guarantee that his men can be trusted absolutely to obey orders or die in the attempt. With bushido the morale of units is much improved. Bushido translates as way of the warrior, it is the collective term for the many codes of honour and ideals that dictated the samurai way of life. Bushido was not a list of universal principles, but contained many separate strands of thought, but nearly all concentrated on the relationship between the samurai and his master. Honour, sincerity, obedience to his lord and a willingness to accept death as a duty were the main foundations, but bushido as interpreted by a clan could also include rules about hygiene, or whether a samurai should indulge in dancing and poetry (opinions were split on such pursuits).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WAY_OF_CHI_DESC">
+			<Text>
+				The wisdom to rule well is given to few men. Those who have it quickly pass into legend, remembered for all eternity. A man must not only learn the way of the warrior but also how to govern in peace. No community can exist in eternal war, and the leader who can survive a peace will always prevail over one who cannot adapt. His clan's fame will increase amongst friend and foe alike. Many of Japan's greatest military leaders were, of course, bloodthirsty and vicious warriors, and yet they ruled their people with a justice and good sense that transcended their warrior roots. Toyotomi Hideoyoshi, for example, instigated a number of political, economic and social reforms, including the introduction of a rigid class system, land surveys and the prohibition of arms to anyone outside the warrior class. Tokogawa Ieyasu, the most famous shogun in Japanese history, introduced laws to help control the various daimyo. He insisted that they would spend a year in the provinces they had been granted, then the next year in Edo where they could be watched.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TODOFUKEN_DESC">
+			<Text>
+				A daimyo who wishes to hold his lands must be prepared for war with one hand and maintain peace with his other. Laws and administrators keep the people in order and, if such laws are fair and just, then they will also be content with their rulers. A wise daimyo establishes a hierarchy of commissioners, councillors, tax collectors, secret police and magistrates. Each answers to his superior for his conduct, leaving the daimyo and his advisors to consider strategy and policy.[NEWLINE][NEWLINE]Before the Sengoku Jidai, Japanese laws were chiefly concerned with governing the behaviour of the imperial court. The peasantry were largely ignored, and left to suffer or thrive under the landowners, who enforced their own laws and punishments as they wished. As the daimyo took power, new laws were created to cement the status of the warrior class. The Muromachi clan were rather cunning in their new laws, and introduced the idea of group responsibility: an entire community could and would be punished for the wrongdoing of one person. Families, neighbours and acquaintances would all suffer. This had the benefit of setting everyone to watch each other, suppressing many rebellions by the lower orders.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ZEN_DESC">
+			<Text>
+				The word Zen means meditation and concentration, and those who live their lives by its principles develop great self-understanding through a life of discipline and contemplation. Followers of Zen are not expected to study religious texts, as their philosophy is one of interaction. The wisdom of Zen is passed from teacher to student not through words, but through thought and feeling. Zen promotes the idea of harmony amongst the people and encourages a sense of belonging, for everyone has a defined place in the world. This philosophy lowers the likelihood of rebellions, providing everyone shares this religious conviction. Zen Buddhism arrived in China in the 6th century thanks to the efforts of Bodhidharma, a monk. As Zen reached Japan the monk became known as Daruma, and his image is still instantly recognisable to most Japanese people. The Daruma doll is a lucky charm that grants wishes. As purchased, a Daruma doll has no eyes: the owner paints one on the face and makes a wish. Only after the wish is granted is the second eye painted. This tradition is based on the story that Daruma fell asleep while meditating, and was so ashamed that he cut off his own eyelids, resulting in a somewhat unnerving stare! As his severed eyelids landed on the ground they became tea plants, and Daruma was shown that tea would help adherents remain awake during meditation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STRATEGY_ATTACK_DESC">
+			<Text>
+				To attack, regardless of the odds, is a mark of true courage. A general who uses the strategy of attack will have an increased charge bonus as his men follow him headlong into the heart of battle! A true warrior should always be on the attack. Bombarding an enemy with wave after wave of attackers denies them the opportunity to formulate any effective strategy.[NEWLINE][NEWLINE]The Battle of Hitotoribashi is one of the greatest historical examples of a leader attacking regardless of the odds: Date Terumune was murdered by Hatakeyama Yoshitsugu and his son, Date Masamune, swore revenge. He took his 7000 men and attacked Yoshitsugu at Hitotoribashi. Masamune was hideously outnumbered, as Yoshitsugu fielded some 30,000 men. Yet Masamune attacked in the name of honour! He won a decisive victory, killing Yoshitsuga and avenging his father. Masamune proved himself the better tactician, and his willingness to attack in the face of overwhelming odds marked him out as an excellent commander.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STRATEGY_DEFENSE_DESC">
+			<Text>
+				A successful commander must know the proper times to attack, and when it is prudent to fall back in defence. Every battle ebbs and flows to its own tides: to ignore these signs is to court disaster! Those who read the signs and mount a stout defence at the proper moment will be well placed to unleash a devastating attack. This art will allow all units to better defend themselves when they are required to do so.[NEWLINE][NEWLINE]Historically, the samurai did not use shields like their European contemporaries, the knights. Instead, they were trained to use their swords as active defensive tools, diverting blows rather than blocking them. The katana was cunning wrought to have elasticity as well as sharpness, so that it could withstand the shock of deflecting a blow, and then deliver a devastating counterstrike. These ideas were carried over into larger formations. Sun Tzu, the Chinese war master, who was respected by the Japanese wrote that Invincibility lies in the defence; the possibility of victory in the attack.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WAY_OF_SEA_DESC">
+			<Text>
+				The first step to mastery of naval warfare is to understand the sea and its moods. This alone makes the business of warfare easier, as fleets can move further when winds and tides are correctly used. Japanese naval battles closely resemble land battles fought on platforms lashed together, but naval commanders do recognise that ships can be manoeuvred to gain an advantage.[NEWLINE][NEWLINE]Japan's numerous rivers and surrounding seas (there are some benefits to being an island nation) provided many opportunities for fishing, travel and trade. This ease of movement also made Japan vulnerable to unwelcome visitors, including pirates, Mongols and European traders. The Mongol invasions of 1274 and 1281 saw vast fleets sent against Japan, but the sea that brought the attackers also destroyed them: the kamikaze, or divine wind; destroyed the Mongol fleet in a terrible storm. It was the legend of the storm that, along with a debased form of bushido, inspired the Japanese navy to contemplate, train and then use suicide pilots in World War II. Many brave young men were sent to futile deaths in the last days of the war when it was quite clear that their sacrifice would be entirely pointless.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SOJUTSU_DESC">
+			<Text>
+				A warrior must know himself before he can be ready for battle. Intense training helps a warrior achieve a deeper understanding of his capabilities. Even the simplest of weapons, a spear, needs study if the warrior is to use it to best effect. A man with the proper training acts without thought on the battlefield, fighting without thought of self. What is true for one is true for many, and the way of the spear increases the effectiveness and experience of all spear-armed troops, making them a truly formidable defensive force.[NEWLINE][NEWLINE]During the Sengoku Jidai, Japanese warfare changed. Battles grew ever larger as more men were fielded: the humble spear-armed ashigaru became a vital part of large armies, outnumbering the skilled samurai many times over. While all the clans used spearmen, they all had differing tactical ideas about their uses, and even about the official length of spears: they were always used as melee weapons and never thrown like javelins. The Oda used a pike-like spear over five metres in length, while other clans favoured handier, shorter spears.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_KYUJUTSU_DESC">
+			<Text>
+				The mind and sight of any archer must be trained, as surely as his muscles: a distant target must be recognised before it can be killed. This advanced training prepares bowmen to use fire arrows, deadly flaming missiles that can set fire to buildings, ships and people.[NEWLINE][NEWLINE]The bow has a long history in Japan, and before the introduction of the arquebus, it was the primary weapon used by samurai. They were expected to master the use of bow on foot and from horseback. In the latter part of the 15th century, Heki Danjo Masatsugu (1443-1502), a great warrior and teacher of kyudo or the way of the bow, established an archery school. Most archery training at that time concentrated on mounted combat, but he taught his students how to fire a bow while standing. His revolutionary teachings were formalised and taught to ashigaru foot soldiers. As a result, they became a cheap supporting arm for samurai cavalry archers. However, the ashigaru still lacked the skill of samurai, and fired mass volleys rather than acting as sharpshooters.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_KENJUTSU_DESC">
+			<Text>
+				The true student of the sword practices daily, until there is no enemy and no weapon. The proper stroke and counterstroke happen without thought: all becomes as one and the warrior simply reacts correctly to every situation. Warriors who go through such rigorous and endless training have their skills improved, and are already experienced in combat before they even reach a battlefield.[NEWLINE][NEWLINE]Miyamoto Musashi, the author of the Book of Five Rings and a legendary swordsman, devoted his life to his swordsmanship. At 16, he set off on a pilgrimage to discover all he could about the art of combat. He spent most of his life on the road, never settling, and sleeping out in the open regardless of the season. He looked wretched and unkempt; this was something highly unusual in a samurai, and it is said that he never bathed, as entering washing would have left him unarmed and vulnerable. He eventually settled with his adopted son, Iori, but easy comfort did not agree with him and retired to a cave, where he lived until his death. Musashi's book is still influential, and a fascinating glimpse into a now-lost world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NAVAL_EXPERTISE_DESC">
+			<Text>
+				As ships and sea battles are studied, contemplated and understood, it becomes plain that there should be more to a naval engagement than a series of desperate boarding assaults. Sailors can influence the course of a battle by using their ships inherent abilities too. Naval expertise allows fleets to use gunpowder-based weapons, and allows the construction of fire bomb-equipped vessels too.[NEWLINE][NEWLINE]Naval warfare usually consisted of a series of boarding actions, with ships lashed together to make a floating battlefield. As ships closed, there would be a hail of missiles to kill enemy sailors and fighters, but not much more than that. Fire weapons were popular because they could set vessels alight and, hopefully, roast at least some of the opposition before the boarding action. With the advent of guns, arquebuses and larger pieces were carried aboard and used, but they were still only a prelude to the serious business of fighting by boarding. It is worth speculating that this kind of close combat suited the samurai temperament because it gave the chance for individuals to seek out and defeat worthy opponents. Although much more practical, simply sinking an enemy in long-range combat lacked this virtue!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARCHERY_DOJO_DESC">
+			<Text>
+				The ability to shoot accurately should be prized in all archers, but it requires training and dedication to achieve. An archery range allows basic archery to be taught, and bow-armed units to be recruited. It does not, however, teach the advanced skills of archery: it is sufficient here to hit the target and do so in the proper manner. Combat will teach men how to keep firing when under threat![NEWLINE][NEWLINE]The bow was not solely used for war. Recreational archery and hunting played an important part in the art. The bow itself was a beautiful and complicated piece of equipment, with an unusual asymmetric shape: the grip was well below the mid-point. This unusual design came about because horse archery was the first skill of all samurai: a bow with the grip in the middle would have been completely unmanageable on horseback and become entangled in the saddle furniture. The short lower section meant it could be swung over the horse’s neck and back quickly. The bow itself was a composite, made of bamboo, wood and leather and was often much taller than the user. The design was extremely strong, and it was not uncommon for bow strings to snap under the strain of being fired. Archers would carry at least one spare string at all times for such emergencies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NO_DACHI_DOJO_DESC">
+			<Text>
+				This dojo allows the recruitment of no-dachi samurai units, armed with fearsome greatswords. The use of these swords is a specialised art, and not all samurai are suited or able to use no-dachi. The weapon is also one that requires considerable space, even for practice. However, the men who can use the swords command considerable respect among their peers.[NEWLINE][NEWLINE]The term “dojo” means “the place of the way”, or a formal training setting for a particular martial art. Often these would be large halls built in temple grounds, but courtyards could also be used. In the case of a no-dachi, training would have to be in the open air.[NEWLINE][NEWLINE]A no-dachi was instantly recognisable when carried because it was worn slung over the shoulder, but its great length meant that it could not be drawn from that position. It was a weapon for the open battlefield, and rarely used indoors or in confined spaces because it needed a lot of space to use effectively. Of most use against cavalry, the no-dachi was not a common blade, as it was harder to make than a shorter sword and required a strong man to swing it!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ESSENCE_OF_THE_SPIRIT_DESC">
+			<Text>
+				It requires a strong spirit and exceptional patience to become a monk. It also requires an able, educated mind to grapple with deep theological questions. A devotee of Buddha will gain wisdom and understanding of the world. The path to harmony through abandoning desire is not easy, for the desire for harmony is a desire in itself. It is not a path for the faint of heart. Education and understanding are worthwhile, though, as they increase the abilities of all monks and make it more likely that they will succeed in their given tasks.[NEWLINE][NEWLINE]Religion in feudal Japan was a mixture of the indigenous Shinto faith, and also Buddhism, Confucianism and Christianity from overseas. Like much else, Buddhism arrived from China but was only widely adopted when the warrior class took control of the country. It was the main religion of the Sengoku Jidai, although Christianity arrived when trade with the Portuguese began; the disciplined Jesuit warrior missionaries were actually rather appealing to the samurai. Under the Tokugawa shogunate, however, Christianity was banned as a foreign influence. The Tokugawas then introduced neo-Confucianism as the official religion of the state: a combination of the practicality of Confucius with the spiritual and ethereal nature of Buddhism.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SCHOOL_OF_SHINOBI_DESC">
+			<Text>
+				All daimyo expect to be assassinated and, as they accumulate power, the chances of such a death increase. An assassin, therefore, must prepare equally thoroughly. To be a ninja is to embrace invisibility, but even for the best ill luck can spell doom and destruction. A school of shinobi prepares a ninja by anticipating the unexpected, and countering the foreseen event. Training here is extremely dangerous and intense: not everyone survives, but those who do are superbly able.[NEWLINE][NEWLINE]As with the samurai, family mattered to the ninjas. Your parentage determined your acceptance for training, meaning that secrets were kept within the family. As a result, there were very few true ninja families, and they could charge astronomical fees for their services. Unlike the samurai, who gave their loyalties forever, ninjas could and did work for anyone with money. This suited the daimyo, for their knowledge of a ninja's work could always be denied!
+			</Text>
+		</Row>
+		<!-- Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_IMPROVED_CHARGE">
+			<Text>Improved Charge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMPROVED_CHARGE_HELP">
+			<Text>Bonus When Attacking (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FEARED_WARRIORS">
+			<Text>Feared Warriors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FEARED_WARRIORS_HELP">
+			<Text>Nearby enemy units receive -10% [ICON_STRENGTH] Combat Strength</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WEAK_ARMOR">
+			<Text>Weak Armor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WEAK_ARMOR_HELP">
+			<Text>-25% penalty when defending against Ranged attacks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMPROVED_WEAPONS_ARMOR">
+			<Text>Improved Armor and Weapons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMPROVED_WEAPONS_ARMOR_HELP">
+			<Text>+10% [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BONUS_WHEN_ATTACKING_BUT_NOT_CITIES">
+			<Text>Bonus when Attacking (200%) - Excludes Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BONUS_WHEN_ATTACKING_BUT_NOT_CITIES_HELP">
+			<Text>+200% [ICON_STRENGTH] Combat Strength when Attacking. Does not apply when attacking Cities.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

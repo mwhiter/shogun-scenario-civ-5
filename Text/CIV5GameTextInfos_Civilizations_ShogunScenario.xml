@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/6/2018 11:17:39 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_SHIMAZU_DESC">
+			<Text>Shimazu Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SHIMAZU_SHORT_DESC">
+			<Text>Shimazu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SHIMAZU_ADJECTIVE">
+			<Text>Shimazu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HOJO_DESC">
+			<Text>Hojo Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HOJO_SHORT_DESC">
+			<Text>Hojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HOJO_ADJECTIVE">
+			<Text>Hojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ODA_DESC">
+			<Text>Oda Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ODA_SHORT_DESC">
+			<Text>Oda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ODA_ADJECTIVE">
+			<Text>Oda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TAKEDA_DESC">
+			<Text>Takeda Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TAKEDA_SHORT_DESC">
+			<Text>Takeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TAKEDA_ADJECTIVE">
+			<Text>Takeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHOSOKABE_DESC">
+			<Text>Chosokabe Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHOSOKABE_SHORT_DESC">
+			<Text>Chosokabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHOSOKABE_ADJECTIVE">
+			<Text>Chosokabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MORI_DESC">
+			<Text>Mori Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MORI_SHORT_DESC">
+			<Text>Mori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MORI_ADJECTIVE">
+			<Text>Mori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OTOMO_DESC">
+			<Text>Otomo Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OTOMO_SHORT_DESC">
+			<Text>Otomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OTOMO_ADJECTIVE">
+			<Text>Otomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UESUGI_DESC">
+			<Text>Uesugi Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UESUGI_SHORT_DESC">
+			<Text>Uesugi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UESUGI_ADJECTIVE">
+			<Text>Uesugi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IKKO_IKKI_DESC">
+			<Text>Ikko Ikki Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IKKO_IKKI_SHORT_DESC">
+			<Text>Ikko Ikki Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IKKO_IKKI_ADJECTIVE">
+			<Text>Ikko Ikki</Text>
+		</Row>
+		
+		<!-- Minor Civilizations -->
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BUDAPEST">
+			<Text>Ito Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BUDAPEST_ADJ">
+			<Text>Ito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BELGRADE">
+			<Text>Imagawa Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BELGRADE_ADJ">
+			<Text>Imagawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_ALMATY">
+			<Text>Sagara Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_ALMATY_ADJ">
+			<Text>Sagara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_SIDON">
+			<Text>Shoni Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_SIDON_ADJ">
+			<Text>Shoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_VALLETTA">
+			<Text>Ouchi Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_VALLETTA_ADJ">
+			<Text>Ouchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_MBANZA_KONGO">
+			<Text>Amako Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_MBANZA_KONGO_ADJ">
+			<Text>Amako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BRATISLAVA">
+			<Text>Miyoshi Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BRATISLAVA_ADJ">
+			<Text>Miyoshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_GENEVA">
+			<Text>Satomi Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_GENEVA_ADJ">
+			<Text>Satomi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_RIGA">
+			<Text>Satake Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_RIGA_ADJ">
+			<Text>Satake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_GENOA">
+			<Text>Saito Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_GENOA_ADJ">
+			<Text>Saito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_FLORENCE">
+			<Text>Ashikaga Shogunate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_FLORENCE_ADJ">
+			<Text>Shogunate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_RAGUSA">
+			<Text>Kono Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_RAGUSA_ADJ">
+			<Text>Kono</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_SYDNEY">
+			<Text>Sogo Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_SYDNEY_ADJ">
+			<Text>Sogo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_QUEBEC_CITY">
+			<Text>Hatakeyama Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_QUEBEC_CITY_ADJ">
+			<Text>Hatakeyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BUCHAREST">
+			<Text>Mogami Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BUCHAREST_ADJ">
+			<Text>Mogami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BRUSSELS">
+			<Text>Jinbo Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_BRUSSELS_ADJ">
+			<Text>Jinbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_MONACO">
+			<Text>Honma Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_MONACO_ADJ">
+			<Text>Honma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_KATHMANDU">
+			<Text>Murakami Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_KATHMANDU_ADJ">
+			<Text>Murakami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_HANOI">
+			<Text>Urakami Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_HANOI_ADJ">
+			<Text>Urakami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_LHASA">
+			<Text>Anegakoji Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_LHASA_ADJ">
+			<Text>Anegakoji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_KUALA_LUMPUR">
+			<Text>Ashina Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_KUALA_LUMPUR_ADJ">
+			<Text>Ashina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_SINGAPORE">
+			<Text>Kiso Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_SINGAPORE_ADJ">
+			<Text>Kiso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_PANAMA_CITY">
+			<Text>Kikkawa Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_PANAMA_CITY_ADJ">
+			<Text>Kikkawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_CAPE_TOWN">
+			<Text>Yamana Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_CAPE_TOWN_ADJ">
+			<Text>Yamana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_TYRE">
+			<Text>Kitabatake Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_TYRE_ADJ">
+			<Text>Kitabatake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_ANTWERP">
+			<Text>Yamanouchi Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_ANTWERP_ADJ">
+			<Text>Yamanouchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_CAHOKIA">
+			<Text>Sakai Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_CAHOKIA_ADJ">
+			<Text>Sakai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_COLOMBO">
+			<Text>Hatano Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_COLOMBO_ADJ">
+			<Text>Hatano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_JERUSALEM">
+			<Text>Matsuda Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_JERUSALEM_ADJ">
+			<Text>Matsuda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_LA_VENTA">
+			<Text>Tokugawa Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_LA_VENTA_ADJ">
+			<Text>Tokugawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_VANCOUVER">
+			<Text>Hattori Clan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOGUN_SCENARIO_CITYSTATE_VANCOUVERADJ">
+			<Text>Hattori</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

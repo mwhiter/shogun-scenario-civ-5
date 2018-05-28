@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/25/2018 10:20:46 PM -->
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_CHRISTIAN_WARRIORS</Type>
+			<Description>TXT_KEY_BELIEF_CHRISTIAN_WARRIORS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CHRISTIAN_WARRIORS_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+	</Beliefs>
+	<Belief_BuildingClassFaithPurchase>
+		<Update>
+			<Where BeliefType="BELIEF_PAGODAS" />
+			<Set>
+				<BuildingClassType>BUILDINGCLASS_BUDDHIST_TEMPLE</BuildingClassType>
+			</Set>
+		</Update>
+		<Update>
+			<Where BeliefType="BELIEF_CATHEDRALS" />
+			<Set>
+				<BuildingClassType>BUILDINGCLASS_CHAPEL</BuildingClassType>
+			</Set>
+		</Update>
+	</Belief_BuildingClassFaithPurchase>
+	<Belief_EraFaithUnitPurchase>
+		<Delete BeliefType="BELIEF_HOLY_WARRIORS" />
+		<Row>
+			<BeliefType>BELIEF_HOLY_WARRIORS</BeliefType>
+			<EraType>ERA_INDUSTRIAL</EraType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHRISTIAN_WARRIORS</BeliefType>
+			<EraType>ERA_INDUSTRIAL</EraType>
+		</Row>
+	</Belief_EraFaithUnitPurchase>
+</GameData>

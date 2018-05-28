@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/6/2018 11:25:19 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_IZU">
+			<Text>Izu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAGAMI">
+			<Text>Sagami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OWARI">
+			<Text>Owari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAI">
+			<Text>Kai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOSA">
+			<Text>Tosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKI">
+			<Text>Aki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUNGO">
+			<Text>Bungo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUZEN">
+			<Text>Buzen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAGA">
+			<Text>Kaga</Text>
+		</Row>
+		<!-- Minor Civilizations -->
+		<Row Tag="TXT_KEY_CITYSTATE_OSUMI">
+			<Text>Osumi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HYUGA">
+			<Text>Hyuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TOTOMI">
+			<Text>Totomi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SURUGA">
+			<Text>Suruga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_HIGO">
+			<Text>Higo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_TSUKUSHI">
+			<Text>Tsukushi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_HIZEN">
+			<Text>Hizen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_NAGATO">
+			<Text>Nagato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_SUO">
+			<Text>Suo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_IWAMI">
+			<Text>Iwami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_IZUMO">
+			<Text>Izumo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_HOKI">
+			<Text>Hoki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_AWA">
+			<Text>Awa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_AWAJI">
+			<Text>Awaji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_SETTSU">
+			<Text>Settsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_KAWACHI">
+			<Text>Kawachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_SHIMOSA">
+			<Text>Shimosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_KAZUSA">
+			<Text>Kazusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_SHIMOTSUKE">
+			<Text>Shimotsuke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_HITACHI">
+			<Text>Hitachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_MINO">
+			<Text>Mino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_KYOTO">
+			<Text>Kyoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_IYO">
+			<Text>Iyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_SANUKI">
+			<Text>Sanuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_KII">
+			<Text>Kii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_NOTO">
+			<Text>Noto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_MIYAGI">
+			<Text>Miyagi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_UGO">
+			<Text>Ugo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_UZEN">
+			<Text>Uzen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_ETCHU">
+			<Text>Etchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_SADO">
+			<Text>Sado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_NORTH_SHINANO">
+			<Text>North Shinano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_SOUTH_SHINANO">
+			<Text>South Shinano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_HIDA">
+			<Text>Hida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_FUKUSHIMA">
+			<Text>Fukushima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_BINGO">
+			<Text>Bingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_MIMASAKA">
+			<Text>Mimasaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_BIZEN">
+			<Text>Bizen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_INABA">
+			<Text>Inaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_TAJIMA">
+			<Text>Tajima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_ISE">
+			<Text>Ise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_KOZUKA">
+			<Text>Kozuke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_WAKASA">
+			<Text>Wakasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_TAMBA">
+			<Text>Tamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_BITCHU">
+			<Text>Bitchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_MIKAWA">
+			<Text>Mikawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CITY_NAME_IGA">
+			<Text>Iga</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
